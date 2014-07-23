@@ -8,4 +8,4 @@ ntwitter
 irc
 
 
-it is still incomplete..
+it is still incomplete.. :o
